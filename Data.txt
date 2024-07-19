@@ -1,1 +1,2 @@
-New pupil data.
+New pupil data. 
+Pupil Marks: 100
