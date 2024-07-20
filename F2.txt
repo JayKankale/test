@@ -1,3 +1,3 @@
 File two of the Git Try.
-More content added in F2.
-F2 master changes.
+Adding content in F2.
+F2 Pupil changes.
